@@ -13,28 +13,31 @@ By maintaining this repository, I ensure:
 
 Each certificate has been added with details of the **course, issuer, and completion date** for clarity.
 
+### 1. Data Visualization using Tableau
+![Oracle Completion](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/Certificates%20-%20Data%20Visualization%20using%20Tableau-23_page-0001.jpg)
 
-### 1. Oracle Dev Gym – Bronze Trophy
+### 2. Oracle Dev Gym – Bronze Trophy
 
 ![Oracle Completion](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/oracle%20(2).jpg)
 
-### 2. Oracle Dev Gym – Completion
+### 3 Oracle Dev Gym – Completion
 
 ![Oracle Completion](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/oracle.jpg)
 
-### 3. CodeChef Certificate
+### 4. CodeChef Certificate
 
 ![CodeChef Certificate](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/codechef.jpeg)
 
-### 4. SQL Bootcamp
+### 5. SQL Bootcamp
 
 ![SQL Bootcamp Certificate](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/SQL.jpg)
 
-### 5. Data Science with Python Bootcamp
+### 6. Data Science with Python Bootcamp
 
 ![Certificate](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/Python.png)
 
 ### 6. Data Analysis using Excel
 
 ![Certificate](https://github.com/MDAsif-bit01/Certificate-Teachnical-/blob/main/image/Great%20Learning.jpg)
+
 
